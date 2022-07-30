@@ -15,6 +15,8 @@ Supervised learning is an approach to creating artificial intelligence (AI), whe
 
 Supervised learning is good at classification and regression problems, such as determining what category a news article belongs to or predicting the volume of sales for a given future date. In supervised learning, the aim is to make sense of data within the context of a specific question.
 
+Default is the failure to make required interest or principal repayments on a debt, whether that debt is a loan or a security. Individuals, businesses, and even countries can default on their debt obligations
+
 ## Process Concept Completion
 Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.
 
@@ -35,3 +37,4 @@ Then the supervised learning analysis is carried out with several algorithms as 
 - https://www.techtarget.com/searchenterpriseai/definition/supervised-learning
 - https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models
 - https://www.kaggle.com/datasets/kartik2112/fraud-detection
+- https://www.investopedia.com/terms/d/default2.asp#:~:text=Key%20Takeaways,their%20future%20access%20to%20credit.
